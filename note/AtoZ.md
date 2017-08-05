@@ -17,4 +17,7 @@ npm install --save redux react-redux
 npm install --save-dev style-loader css-loader
 
 [CSS]
-npm install --save purecss
+npm install --save materialize-css
+
+#3
+npm install --save react-router
